@@ -27,7 +27,7 @@
 #define NAME "botnet"
 #define SERVER "localhost"
 #define USER "root"
-#define PASSWORD "nigger12345!"
+#define PASSWORD "niceperson12345!"
 
 static volatile int epoll_fd = 0, listen_fd = 0, reflectors = 0, attacking = 1;
 static uint32_t x, y, z, w;
